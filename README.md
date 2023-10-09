@@ -21,4 +21,4 @@ Minhas principais áreas de atuação incluem programação em Python, JavaScrip
 
 Se você está procurando um desenvolvedor experiente que entende a importância do design e da usabilidade, estou pronto para colaborar em seus projetos. Vamos trabalhar juntos para transformar suas ideias em realidade!
 
-Entre em contato comigo através do [seu email](mailto:gustavobatistadev@gmail.com.com) para discutir como posso ajudar a impulsionar seus projetos digitais.
+Entre em contato comigo através do [seu email](gustavobatistadev@gmail.com:gustavobatistadev@gmail.com.com) para discutir como posso ajudar a impulsionar seus projetos digitais.
